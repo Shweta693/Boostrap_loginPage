@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVKoQ_oXMYloRj0fpYhcbneAnfd2RlcI4tQ&s);
+    opacity: 80%;
+    height: 657px;
+}
+.container{
+    padding-top: 4rem;
+}
+.row{
+    background-color: rgb(203 164 164);
+    border-radius: 30px;
+    width: auto;
+    box-shadow: 12px 12px 27px;
+    height: 30rem;
+}
+img{
+    width: 100%;
+    padding-top: 1.5rem;
+    height: 29rem;
+    border-top-left-radius: 229px ;
+    border-top-right-radius: 229px ;
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 500;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 16px 9px 20px 19px rgb(134, 50, 50);
+    padding-right: 2rem;
+}
+.btn1{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(41, 11, 11);
+    font-weight: 600;  
+    border-color: rgb(63, 47, 24);
+    color: aliceblue;
+    border: none;
+    outline: none;
+}
+p{
+    font-weight: 900;
+}
+.fa-facebook{
+    padding: 10px;
+    font-size: 30px;
+}
+.fa-facebook:hover{
+    color: rgb(47, 99, 197);
+}
+.fa-square-instagram{
+    padding: 10px;
+    font-size: 30px;
+}
+.fa-square-instagram:hover{
+    color: rgb(204, 20, 112);
+}
+.fa-linkedin{
+    padding: 10px;
+    font-size: 30px;
+}
+.fa-linkedin:hover{
+    color: rgb(29, 78, 168);
+}
